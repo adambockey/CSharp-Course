@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Learning_ParsingAndManipulatingStrings/1.0.0": {
+        "runtime": {
+          "Learning_ParsingAndManipulatingStrings.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Learning_ParsingAndManipulatingStrings/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

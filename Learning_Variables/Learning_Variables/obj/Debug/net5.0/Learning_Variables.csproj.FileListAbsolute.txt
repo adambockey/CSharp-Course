@@ -1,0 +1,16 @@
+C:\Users\Adam\source\repos\Learning_Variables\Learning_Variables\bin\Debug\net5.0\Learning_Variables.exe
+C:\Users\Adam\source\repos\Learning_Variables\Learning_Variables\bin\Debug\net5.0\Learning_Variables.deps.json
+C:\Users\Adam\source\repos\Learning_Variables\Learning_Variables\bin\Debug\net5.0\Learning_Variables.runtimeconfig.json
+C:\Users\Adam\source\repos\Learning_Variables\Learning_Variables\bin\Debug\net5.0\Learning_Variables.runtimeconfig.dev.json
+C:\Users\Adam\source\repos\Learning_Variables\Learning_Variables\bin\Debug\net5.0\Learning_Variables.dll
+C:\Users\Adam\source\repos\Learning_Variables\Learning_Variables\bin\Debug\net5.0\ref\Learning_Variables.dll
+C:\Users\Adam\source\repos\Learning_Variables\Learning_Variables\bin\Debug\net5.0\Learning_Variables.pdb
+C:\Users\Adam\source\repos\Learning_Variables\Learning_Variables\obj\Debug\net5.0\Learning_Variables.csprojAssemblyReference.cache
+C:\Users\Adam\source\repos\Learning_Variables\Learning_Variables\obj\Debug\net5.0\Learning_Variables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adam\source\repos\Learning_Variables\Learning_Variables\obj\Debug\net5.0\Learning_Variables.AssemblyInfoInputs.cache
+C:\Users\Adam\source\repos\Learning_Variables\Learning_Variables\obj\Debug\net5.0\Learning_Variables.AssemblyInfo.cs
+C:\Users\Adam\source\repos\Learning_Variables\Learning_Variables\obj\Debug\net5.0\Learning_Variables.csproj.CoreCompileInputs.cache
+C:\Users\Adam\source\repos\Learning_Variables\Learning_Variables\obj\Debug\net5.0\Learning_Variables.dll
+C:\Users\Adam\source\repos\Learning_Variables\Learning_Variables\obj\Debug\net5.0\ref\Learning_Variables.dll
+C:\Users\Adam\source\repos\Learning_Variables\Learning_Variables\obj\Debug\net5.0\Learning_Variables.pdb
+C:\Users\Adam\source\repos\Learning_Variables\Learning_Variables\obj\Debug\net5.0\Learning_Variables.genruntimeconfig.cache

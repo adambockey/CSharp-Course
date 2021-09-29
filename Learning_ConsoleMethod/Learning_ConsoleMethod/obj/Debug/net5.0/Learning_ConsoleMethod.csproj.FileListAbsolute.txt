@@ -1,0 +1,16 @@
+C:\Users\Adam\source\repos\Learning\Learning_ConsoleMethod\Learning_ConsoleMethod\bin\Debug\net5.0\Learning_ConsoleMethod.exe
+C:\Users\Adam\source\repos\Learning\Learning_ConsoleMethod\Learning_ConsoleMethod\bin\Debug\net5.0\Learning_ConsoleMethod.deps.json
+C:\Users\Adam\source\repos\Learning\Learning_ConsoleMethod\Learning_ConsoleMethod\bin\Debug\net5.0\Learning_ConsoleMethod.runtimeconfig.json
+C:\Users\Adam\source\repos\Learning\Learning_ConsoleMethod\Learning_ConsoleMethod\bin\Debug\net5.0\Learning_ConsoleMethod.runtimeconfig.dev.json
+C:\Users\Adam\source\repos\Learning\Learning_ConsoleMethod\Learning_ConsoleMethod\bin\Debug\net5.0\Learning_ConsoleMethod.dll
+C:\Users\Adam\source\repos\Learning\Learning_ConsoleMethod\Learning_ConsoleMethod\bin\Debug\net5.0\ref\Learning_ConsoleMethod.dll
+C:\Users\Adam\source\repos\Learning\Learning_ConsoleMethod\Learning_ConsoleMethod\bin\Debug\net5.0\Learning_ConsoleMethod.pdb
+C:\Users\Adam\source\repos\Learning\Learning_ConsoleMethod\Learning_ConsoleMethod\obj\Debug\net5.0\Learning_ConsoleMethod.csprojAssemblyReference.cache
+C:\Users\Adam\source\repos\Learning\Learning_ConsoleMethod\Learning_ConsoleMethod\obj\Debug\net5.0\Learning_ConsoleMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adam\source\repos\Learning\Learning_ConsoleMethod\Learning_ConsoleMethod\obj\Debug\net5.0\Learning_ConsoleMethod.AssemblyInfoInputs.cache
+C:\Users\Adam\source\repos\Learning\Learning_ConsoleMethod\Learning_ConsoleMethod\obj\Debug\net5.0\Learning_ConsoleMethod.AssemblyInfo.cs
+C:\Users\Adam\source\repos\Learning\Learning_ConsoleMethod\Learning_ConsoleMethod\obj\Debug\net5.0\Learning_ConsoleMethod.csproj.CoreCompileInputs.cache
+C:\Users\Adam\source\repos\Learning\Learning_ConsoleMethod\Learning_ConsoleMethod\obj\Debug\net5.0\Learning_ConsoleMethod.dll
+C:\Users\Adam\source\repos\Learning\Learning_ConsoleMethod\Learning_ConsoleMethod\obj\Debug\net5.0\ref\Learning_ConsoleMethod.dll
+C:\Users\Adam\source\repos\Learning\Learning_ConsoleMethod\Learning_ConsoleMethod\obj\Debug\net5.0\Learning_ConsoleMethod.pdb
+C:\Users\Adam\source\repos\Learning\Learning_ConsoleMethod\Learning_ConsoleMethod\obj\Debug\net5.0\Learning_ConsoleMethod.genruntimeconfig.cache

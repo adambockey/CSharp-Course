@@ -1,0 +1,16 @@
+C:\Users\Adam\source\repos\Learning_Datatype_String\Learning_Datatype_String\bin\Debug\net5.0\Learning_Datatype_String.exe
+C:\Users\Adam\source\repos\Learning_Datatype_String\Learning_Datatype_String\bin\Debug\net5.0\Learning_Datatype_String.deps.json
+C:\Users\Adam\source\repos\Learning_Datatype_String\Learning_Datatype_String\bin\Debug\net5.0\Learning_Datatype_String.runtimeconfig.json
+C:\Users\Adam\source\repos\Learning_Datatype_String\Learning_Datatype_String\bin\Debug\net5.0\Learning_Datatype_String.runtimeconfig.dev.json
+C:\Users\Adam\source\repos\Learning_Datatype_String\Learning_Datatype_String\bin\Debug\net5.0\Learning_Datatype_String.dll
+C:\Users\Adam\source\repos\Learning_Datatype_String\Learning_Datatype_String\bin\Debug\net5.0\ref\Learning_Datatype_String.dll
+C:\Users\Adam\source\repos\Learning_Datatype_String\Learning_Datatype_String\bin\Debug\net5.0\Learning_Datatype_String.pdb
+C:\Users\Adam\source\repos\Learning_Datatype_String\Learning_Datatype_String\obj\Debug\net5.0\Learning_Datatype_String.csprojAssemblyReference.cache
+C:\Users\Adam\source\repos\Learning_Datatype_String\Learning_Datatype_String\obj\Debug\net5.0\Learning_Datatype_String.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adam\source\repos\Learning_Datatype_String\Learning_Datatype_String\obj\Debug\net5.0\Learning_Datatype_String.AssemblyInfoInputs.cache
+C:\Users\Adam\source\repos\Learning_Datatype_String\Learning_Datatype_String\obj\Debug\net5.0\Learning_Datatype_String.AssemblyInfo.cs
+C:\Users\Adam\source\repos\Learning_Datatype_String\Learning_Datatype_String\obj\Debug\net5.0\Learning_Datatype_String.csproj.CoreCompileInputs.cache
+C:\Users\Adam\source\repos\Learning_Datatype_String\Learning_Datatype_String\obj\Debug\net5.0\Learning_Datatype_String.dll
+C:\Users\Adam\source\repos\Learning_Datatype_String\Learning_Datatype_String\obj\Debug\net5.0\ref\Learning_Datatype_String.dll
+C:\Users\Adam\source\repos\Learning_Datatype_String\Learning_Datatype_String\obj\Debug\net5.0\Learning_Datatype_String.pdb
+C:\Users\Adam\source\repos\Learning_Datatype_String\Learning_Datatype_String\obj\Debug\net5.0\Learning_Datatype_String.genruntimeconfig.cache

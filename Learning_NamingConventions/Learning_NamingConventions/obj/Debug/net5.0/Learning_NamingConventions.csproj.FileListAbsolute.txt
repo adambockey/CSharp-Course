@@ -1,0 +1,16 @@
+C:\Users\Adam\source\repos\Learning\Learning_NamingConventions\Learning_NamingConventions\bin\Debug\net5.0\Learning_NamingConventions.exe
+C:\Users\Adam\source\repos\Learning\Learning_NamingConventions\Learning_NamingConventions\bin\Debug\net5.0\Learning_NamingConventions.deps.json
+C:\Users\Adam\source\repos\Learning\Learning_NamingConventions\Learning_NamingConventions\bin\Debug\net5.0\Learning_NamingConventions.runtimeconfig.json
+C:\Users\Adam\source\repos\Learning\Learning_NamingConventions\Learning_NamingConventions\bin\Debug\net5.0\Learning_NamingConventions.runtimeconfig.dev.json
+C:\Users\Adam\source\repos\Learning\Learning_NamingConventions\Learning_NamingConventions\bin\Debug\net5.0\Learning_NamingConventions.dll
+C:\Users\Adam\source\repos\Learning\Learning_NamingConventions\Learning_NamingConventions\bin\Debug\net5.0\ref\Learning_NamingConventions.dll
+C:\Users\Adam\source\repos\Learning\Learning_NamingConventions\Learning_NamingConventions\bin\Debug\net5.0\Learning_NamingConventions.pdb
+C:\Users\Adam\source\repos\Learning\Learning_NamingConventions\Learning_NamingConventions\obj\Debug\net5.0\Learning_NamingConventions.csprojAssemblyReference.cache
+C:\Users\Adam\source\repos\Learning\Learning_NamingConventions\Learning_NamingConventions\obj\Debug\net5.0\Learning_NamingConventions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adam\source\repos\Learning\Learning_NamingConventions\Learning_NamingConventions\obj\Debug\net5.0\Learning_NamingConventions.AssemblyInfoInputs.cache
+C:\Users\Adam\source\repos\Learning\Learning_NamingConventions\Learning_NamingConventions\obj\Debug\net5.0\Learning_NamingConventions.AssemblyInfo.cs
+C:\Users\Adam\source\repos\Learning\Learning_NamingConventions\Learning_NamingConventions\obj\Debug\net5.0\Learning_NamingConventions.csproj.CoreCompileInputs.cache
+C:\Users\Adam\source\repos\Learning\Learning_NamingConventions\Learning_NamingConventions\obj\Debug\net5.0\Learning_NamingConventions.dll
+C:\Users\Adam\source\repos\Learning\Learning_NamingConventions\Learning_NamingConventions\obj\Debug\net5.0\ref\Learning_NamingConventions.dll
+C:\Users\Adam\source\repos\Learning\Learning_NamingConventions\Learning_NamingConventions\obj\Debug\net5.0\Learning_NamingConventions.pdb
+C:\Users\Adam\source\repos\Learning\Learning_NamingConventions\Learning_NamingConventions\obj\Debug\net5.0\Learning_NamingConventions.genruntimeconfig.cache
